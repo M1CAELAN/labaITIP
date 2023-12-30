@@ -1,0 +1,8 @@
+Exception occurred at 2023-11-17T00:56:55.103076500
+Exception type: CustomEmptyStackException
+Message: Stack is empty
+Stack trace:
+CustomEmptyStackException: Stack is empty
+	at CustomStack.pop(CustomStack.java:16)
+	at Main.main(Main.java:6)
+
